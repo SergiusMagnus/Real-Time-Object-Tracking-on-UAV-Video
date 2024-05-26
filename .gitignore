@@ -1,2 +1,10 @@
-/venv/
-/data/
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+data/
+results/
+detection/review_object_detection_metrics/
+runs/
+weights/
